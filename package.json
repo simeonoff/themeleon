@@ -1,5 +1,5 @@
 {
-  "name": "themeleon",
+  "name": "@simeonoff/themeleon",
   "version": "3.0.3",
   "description": "A lightweight Node.js theme engine.",
   "license": "Unlicense",
